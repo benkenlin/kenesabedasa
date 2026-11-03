@@ -61,8 +61,8 @@ MSc research focused on workflow scheduling, resource optimization, and performa
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/kenesa-bedasa-gutema
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/kenesa-b-10a094b0/
+- Email: getkennyo@gmail.com
 
 ---
 ⭐ Always learning, building, and sharing knowledge.
