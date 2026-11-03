@@ -5,6 +5,15 @@ Data Engineer | Machine Learning Engineer | MSc Computer Science &amp; Engineeri
 
 ### Data Engineer | Machine Learning Engineer | MSc Computer Science & Engineering | Financial Engineering Candidate
 
+![Profile Views](https://komarev.com/ghpvc/?username=benkenlin&color=blue&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benkenlin&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benkenlin&layout=compact)
+
+---
+
+
 I am passionate about Data Engineering, Machine Learning, Cloud Computing, Distributed Systems, and Financial Analytics. I enjoy building scalable data solutions, developing machine learning applications, and solving real-world problems through data-driven approaches.
 
 ---
@@ -21,7 +30,15 @@ I am passionate about Data Engineering, Machine Learning, Cloud Computing, Distr
 ---
 
 ## Technical Skills
+## Technologies
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ### Programming Languages
 - Python
 - SQL
