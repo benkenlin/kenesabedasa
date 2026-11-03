@@ -7,12 +7,17 @@ Data Engineer | Machine Learning Engineer | MSc Computer Science &amp; Engineeri
 
 ![Profile Views](https://komarev.com/ghpvc/?username=benkenlin&color=blue&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benkenlin&show_icons=true&theme=default)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benkenlin&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benkenlin&show_icons=true&theme=github_dark)
 
----
+## Top Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benkenlin&layout=compact&theme=github_dark)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=benkenlin&theme=github-dark-blue)
 
 I am passionate about Data Engineering, Machine Learning, Cloud Computing, Distributed Systems, and Financial Analytics. I enjoy building scalable data solutions, developing machine learning applications, and solving real-world problems through data-driven approaches.
 
